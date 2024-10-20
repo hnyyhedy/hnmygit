@@ -1,9 +1,1 @@
-本仑库的内容和资源均来自於互联网无私的分享，仅用於24 小时内测试和学习研究，并及时删除本仓库内容，如有侵权，请联络删除。
-#EXTM3U
-#EXTINF:-1,CCTV-1综合
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/main.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$5.5M_1080
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8$4.0M_1080
+
