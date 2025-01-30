@@ -119,47 +119,56 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 ,中国教育4台
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-#EXTINF:-1 ,黑莓电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 ,纪实人文
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 ,超级电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 ,超级电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 ,爱情喜剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 ,超级综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 ,泰剧剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 ,潮妈辣婆
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 ,东北热剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 ,动作电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 ,古装剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 ,海外剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 ,欢乐剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 ,家庭剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 ,惊悚悬疑
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 ,精品大剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 ,军旅剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 ,军事评论
+#EXTINF:-1 tvg-id="358" tvg-name="军事评论" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV01.png" group-title="NewTV",军事评论
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 ,明星大片
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 ,中国功夫
+#EXTINF:-1 tvg-id="361" tvg-name="军旅剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV02.png" group-title="NewTV",军旅剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="350" tvg-name="动作电影" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV03.png" group-title="NewTV",动作电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-id="360" tvg-name="古装剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV04.png" group-title="NewTV",古装剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-id="362" tvg-name="家庭剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV05.png" group-title="NewTV",家庭剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="350" tvg-name="海外剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV06.png" group-title="NewTV",海外剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="373" tvg-name="中国功夫" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV07.png" group-title="NewTV",中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 ,BTV科教
+#EXTINF:-1 tvg-id="431" tvg-name="东北热剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV09.png" group-title="NewTV",东北热剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-id="366" tvg-name="惊悚悬疑" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV10.png" group-title="NewTV",惊悚悬疑
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-id="365" tvg-name="明星大片" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV12.png" group-title="NewTV",明星大片
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-id="432" tvg-name="欢乐剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV13.png" group-title="NewTV",欢乐剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-id="355" tvg-name="潮妈辣婆" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV15.png" group-title="NewTV",潮妈辣婆
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-id="363" tvg-name="爱情喜剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV17.png" group-title="NewTV",爱情喜剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-id="369" tvg-name="精品大剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV19.png" group-title="NewTV",精品大剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-id="428" tvg-name="超级电影" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV23.png" group-title="NewTV",超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="427" tvg-name="超级综艺" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV24.png" group-title="NewTV",超级综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-id="363" tvg-name="超级电视剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="NewTV",超级电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-id="427" tvg-name="超级综艺" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV24.png" group-title="NewTV",超级综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-id="363" tvg-name="超级电视剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="NewTV",超级电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-id="363" tvg-name="泰剧剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="NewTV",泰剧剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8 
+#EXTINF:-1 tvg-id="363" tvg-name="黑莓电影" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="NewTV",黑莓电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="363" tvg-name="纪实人文" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="NewTV",纪实人文
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-id="363" tvg-name="BTV科教" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="NewTV",BTV科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 ,黑龙江影视
+#EXTINF:-1 tvg-id="297" tvg-name="黑龙江影视" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="NewTV",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
+
+
+
+
+
