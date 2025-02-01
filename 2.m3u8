@@ -35,6 +35,12 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV17.png" group-title="央视",CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 , tvg-name="中国教育1台" tvg-logo="https://ghproxy.net/https://github.com/sparkssssssssss/epg/blob/main/logo/CETV-1.png" group-title="央视",中国教育1台
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 , tvg-name="中国教育2台" tvg-logo="https://ghproxy.net/https://github.com/sparkssssssssss/epg/blob/main/logo/CETV-2.png" group-title="央视",中国教育2台
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 , tvg-name="中国教育4台" tvg-logo="https://ghproxy.net/https://github.com/sparkssssssssss/epg/blob/main/logo/CETV-4.png" group-title="央视",中国教育4台
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Hunan.png" group-title="卫视",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Zhejiang.png" group-title="卫视",浙江卫视
@@ -113,12 +119,6 @@ http://183.215.116.132:6610/000000001000/2000000003000000045/index.m3u8?livemode
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-id="240" tvg-name="香港卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/HKS.png" group-title="卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,中国教育1台
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 ,中国教育2台
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 ,中国教育4台
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-id="358" tvg-name="军事评论" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV01.png" group-title="NewTV",军事评论
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1 tvg-id="361" tvg-name="军旅剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV02.png" group-title="NewTV",军旅剧场
@@ -159,13 +159,14 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-id="363" tvg-name="泰剧剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="NewTV",泰剧剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8 
-#EXTINF:-1 tvg-id="363" tvg-name="黑莓电影" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="NewTV",黑莓电影
+#EXTINF:-1 tvg-id="363" tvg-name="黑莓电影" tvg-logo="https://ghproxy.net/https://github.com/sparkssssssssss/epg/blob/main/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png.png" group-title="NewTV",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="363" tvg-name="纪实人文" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="NewTV",纪实人文
+#EXTINF:-1 tvg-id="363" tvg-name="纪实人文" tvg-logo="https://ghproxy.net/https://github.com/sparkssssssssss/epg/blob/main/logo/%E7%BA%AA%E5%AE%9E%E4%BA%BA%E6%96%87.png" group-title="NewTV",纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 tvg-id="363" tvg-name="BTV科教" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="NewTV",BTV科教
+#EXTINF:-1 tvg-id="363" tvg-name="BTV科教" tvg-logo="https://ghproxy.net/https://github.com/sparkssssssssss/epg/blob/main/logo/BTV%E7%A7%91%E6%95%99.png" group-title="NewTV",BTV科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 tvg-id="297" tvg-name="黑龙江影视" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="NewTV",黑龙江影视
+#EXTINF:-1 tvg-id="297" tvg-name="黑龙江影视" tvg-logo="
+https://ghproxy.net/https://github.com/sparkssssssssss/epg/blob/main/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png" group-title="NewTV",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
 
 
