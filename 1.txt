@@ -72,8 +72,8 @@ NewTV频道,#genre#
 BTV科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
 港澳频道,#genre#
-凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
-凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
+凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 地方频道,#genre#
 湖南卫视,http://39.134.247.51:80/wh7f454c46tw861011621_-1406899877/180000001002/00000001000000000007000000001242/main.m3u8?
 湖南电视剧,http://39.134.247.53:80/wh7f454c46tw1367405788_-578932276/180000001002/00000001000000000007000000001245/main.m3u8?
