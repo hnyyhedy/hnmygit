@@ -270,3 +270,11 @@ CETV4,http://183.92.26.82:8123/rtp/228.0.0.177:7177
 GCTN英语,http://183.92.26.82:8123/rtp/228.0.0.16:6108
 IPTV靓妆,http://183.92.26.82:8123/rtp/228.0.0.86:6108
 新动漫,http://183.92.26.82:8123/rtp/228.0.0.240:6108
+电视剧轮播,#genre#
+鬼吹灯之南海归墟,http://cfss.cc/cdn/hy/11352883.flv
+鬼吹灯之云南虫谷,http://cfss.cc/cdn/hy/11352898.flv
+庆余年,http://cfss.cc/cdn/hy/11352960.flv
+鬼吹灯之昆仑神宫,http://cfss.cc/cdn/hy/11601957.flv
+鬼吹灯之怒晴湘西,http://cfss.cc/cdn/hy/11602075.flv
+回家的诱惑,https://lunbo.freetv.top/yy/1382851148
+延禧攻略,http://cfss.cc/cdn/hy/26355864.m3u8
