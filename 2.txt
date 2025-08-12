@@ -482,3 +482,11 @@ CCTV4K,http://183.215.115.136:6610/180000001001/32023092211020848462000290559536
 黑龙江卫视,http://221.193.168.248:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://221.193.168.58:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://221.193.168.29:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+电视剧轮播,#genre#
+鬼吹灯之南海归墟,http://cfss.cc/cdn/hy/11352883.flv
+鬼吹灯之云南虫谷,http://cfss.cc/cdn/hy/11352898.flv
+庆余年,http://cfss.cc/cdn/hy/11352960.flv
+鬼吹灯之昆仑神宫,http://cfss.cc/cdn/hy/11601957.flv
+鬼吹灯之怒晴湘西,http://cfss.cc/cdn/hy/11602075.flv
+回家的诱惑,https://lunbo.freetv.top/yy/1382851148
+延禧攻略,http://cfss.cc/cdn/hy/26355864.m3u8
