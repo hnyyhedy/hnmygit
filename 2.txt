@@ -84,6 +84,7 @@ TVB翡翠台,https://bxtv.587788.xyz/stream/bxtv/null/master.m3u8?u=xiaojia&p=ed
 TVB明珠台,https://bxtv.587788.xyz/stream/bxtv/null-2/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国精编,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 CCTV4K,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
