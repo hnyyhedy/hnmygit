@@ -153,6 +153,13 @@ http://tvbox6.icu/tv/migu.php?id=cctv4a
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="数字频道",CGTN
 http://gslbserv.itv.cmvideo.cn/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="73" tvg-name="CETV1" tvg-logo="https://epg.51zmt.top:8001/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="央视频道",中国教育1台
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 tvg-id="74" tvg-name="CETV2" tvg-logo="https://epg.51zmt.top:8001/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png" group-title="央视频道",中国教育2台
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-id="75" tvg-name="CETV3" tvg-logo="https://epg.51zmt.top:8001/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B23%E5%8F%B0.png" group-title="央视频道",中国教育3台
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+
 
 
 
