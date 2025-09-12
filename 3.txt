@@ -117,12 +117,13 @@ http://183.215.116.132:6610/000000001000/2000000003000000045/index.m3u8?livemode
 #EXTINF:-1 tvg-id="" tvg-name="安多卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视频道",安多卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字频道",CHC家庭影院
-https://histar.zapi.us.kg/?id=chc-jtyy
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448840/main.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字频道",CHC动作电影
-https://histar.zapi.us.kg/?id=chc-dzdy
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448842/main.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="数字频道",CHC高清电影
-https://histar.zapi.us.kg/?id=chc-gqdy
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448841/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",重温经典
+http://183.215.134.239:19901/tsfile/live/1002_1.m3u8
 http://183.215.134.239:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="数字频道",凤凰卫视 资讯台
@@ -138,7 +139,6 @@ http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
 http://bx.757888.xyz/api.php?id=fhhk
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="数字频道",第一剧场
-http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 http://183.215.116.132:6610/180000001001/00000001000000000091000000244808/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="6569" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="数字频道",风云剧场
 http://183.215.116.132:6610/180000001001/00000001000000000091000000244807/main.m3u8?IASHttpSessionId=OTT
@@ -147,10 +147,9 @@ http://183.215.116.132:6610/180000001001/00000001000000000091000000244806/main.m
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字频道",欢笑剧场
 http://183.215.116.132:6610/000000001000/5000000002000009455/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV-4欧洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" group-title="数字频道",CCTV-4欧洲
-http://tvbox6.icu/tv/migu.php?id=cctv4o
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305577/main.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV-4美洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" group-title="数字频道",CCTV-4美洲
-http://tvbox6.icu/tv/migu.php?id=cctv4a
-https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305581/main.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="数字频道",CGTN
 http://gslbserv.itv.cmvideo.cn/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="73" tvg-name="CETV1" tvg-logo="https://epg.51zmt.top:8001/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="央视频道",中国教育1台
