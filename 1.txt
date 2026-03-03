@@ -74,3 +74,15 @@ CHC动作电影,http://tvgslb.hn.chinamobile.com:8089/180000001001/0000000100000
 风云剧场,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244807/main.m3u8
 怀旧剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244806/main.m3u8
 重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
+其它频道,#genre#
+张碧晨&王赫野-字字句句,http://127.0.0.1:9978/file//mp4/张碧晨&王赫野-字字句句(Live).mp4
+胡彦斌&张靓颖-如果你也听说,http://127.0.0.1:9978/file//mp4/胡彦斌&张靓颖-如果你也听说(Live).mp4
+张碧晨&王赫野-见与不见,file:///storage/emulated/0/mp4/张碧晨&王赫野-见与不见(Live).mp4
+王赫野&NINEONE#-今晚不想睡,http://127.0.0.1:9978/file//mp4/王赫野&NINEONE-今晚不想睡(Live).mp4
+
+
+
+
+
+
+
